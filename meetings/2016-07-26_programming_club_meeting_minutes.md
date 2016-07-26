@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/club_logo_extrasmall.png"/>
+  <img src="../images/club_logo_extrasmall.png"/>
 </p>
 # Meeting Minutes Template
 ---
